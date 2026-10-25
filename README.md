@@ -74,10 +74,13 @@ Validated knowledge across:
 - Multi-agent coordination
 - Guardrails and accountability
 
-### DeepLearning.AI — Agentic AI
+### [DeepLearning.AI — Agentic AI](https://www.deeplearning.ai/certificates/73639727-52e8-4993-bc33-f951ba2b6470)
 Completed September 2026
 
-Additional learning includes Microsoft AI Skills Fest and agent orchestration / reasoning-agent programs.
+Additional credentials:
+
+- [Agents League – Reasoning Agents — Global AI Community](https://globalai.community/badges/f843a066-da40-4e4c-bbd5-1ce5b83ab833)
+- [Microsoft AI Skills Fest 2026 — Credly Badge](https://www.credly.com/badges/a0e76deb-1f2e-4716-bab6-8bf81f4bc896/linked_in_profile)
 
 ---
 
