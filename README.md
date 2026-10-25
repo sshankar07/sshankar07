@@ -1,16 +1,151 @@
-## Hi there 👋
+# Hi, I'm Shankar Subramanian 👋
 
-<!--
-**sshankar07/sshankar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Automation Architect | Agentic AI & Enterprise Automation
 
-Here are some ideas to get you started:
+I’m an automation architect with **12+ years of engineering experience**, building enterprise test automation platforms and increasingly focusing on **Agentic AI systems, AI-assisted SDLC workflows, MCP integrations, and multi-agent automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work sits at the intersection of:
+
+**Enterprise Automation × Software Architecture × Agentic AI**
+
+---
+
+## 🤖 What I'm Building
+
+### 🔹 QA Platform — Jira → Agent → Production-Ready Playwright
+
+A repository-aware agentic automation platform that transforms Jira test cases into validated, runnable Playwright tests.
+
+The system uses:
+
+- Jira through a read-only MCP server
+- Typed intermediate representations
+- Repository intelligence and selector grounding
+- Specialized agent workflows
+- Deterministic quality gates
+- TypeScript validation
+- Playwright execution
+- Human approval boundaries
+
+A core design principle is:
+
+> **The model interprets. The code decides.**
+
+Agent-generated output must pass deterministic validation gates before it is considered usable.
+
+👉 [Explore QA Platform](https://github.com/sshankar07/qa-platform)
+
+---
+
+### 🔹 TestFlow Agent — One Flow, Multiple Automation Assets
+
+TestFlow Agent converts plain-English business flows or captured browser traffic into coordinated, runnable:
+
+- Postman collections
+- Playwright API tests
+- JMeter performance tests
+
+The platform handles dynamic-variable correlation, authentication/session state, request discovery, test generation, and execution across multiple automation toolchains.
+
+👉 [Explore TestFlow Agent](https://github.com/sshankar07/test-flow-agent)
+
+---
+
+### 🔹 Playwright Agent Framework
+
+Exploring agent-driven Playwright automation patterns for enterprise testing workflows and repository-aware test generation.
+
+👉 [Explore the Framework](https://github.com/sshankar07/playwright-agent-framework)
+
+---
+
+## 🏆 Certifications & Learning
+
+### GitHub Certified: Agentic AI Developer — GH-600
+**Developing in Agentic AI Systems**
+
+Validated knowledge across:
+
+- Agent architecture and SDLC integration
+- Tool use and environment interaction
+- MCP integrations
+- Memory, state, and execution
+- Evaluation and error analysis
+- Multi-agent coordination
+- Guardrails and accountability
+
+### DeepLearning.AI — Agentic AI
+Completed September 2026
+
+Additional learning includes Microsoft AI Skills Fest and agent orchestration / reasoning-agent programs.
+
+---
+
+## 🧠 Current Focus
+
+I’m currently deepening my work in:
+
+- Agentic AI architecture
+- Multi-agent systems
+- Model Context Protocol (MCP)
+- Repository-aware agents
+- AI-assisted software engineering
+- Agent evaluation and observability
+- Human-in-the-loop approval systems
+- Enterprise AI governance
+- Forward-deployed AI engineering
+
+---
+
+## 🛠️ Engineering Stack
+
+**Agentic AI & AI Engineering**
+
+`GitHub Copilot` · `MCP` · `AI Agents` · `Multi-Agent Systems` · `Prompt Engineering`
+
+**Test & Automation Engineering**
+
+`Playwright` · `Selenium` · `Cypress` · `Karate` · `REST Assured` · `JMeter` · `k6`
+
+**Languages**
+
+`TypeScript` · `JavaScript` · `Java` · `Python` · `C#`
+
+**Platforms & DevOps**
+
+`GitHub Actions` · `Jenkins` · `Azure` · `CI/CD` · `Docker`
+
+---
+
+## 📈 Engineering Impact
+
+Built and scaled enterprise automation platforms and reusable engineering workflows that have contributed to an estimated **2,000+ hours of engineering productivity savings**.
+
+My focus is not simply generating code with AI.
+
+I’m interested in building systems where agents can **understand intent, interact with tools, operate within engineering constraints, validate their work, and safely participate in enterprise software-delivery workflows**.
+
+---
+
+## 🎯 Where I'm Heading
+
+My career progression is evolving from:
+
+**Automation Engineering → Enterprise Automation Architecture → Agentic AI Architecture**
+
+I’m particularly interested in opportunities around:
+
+- Agentic AI / AI Architecture
+- Enterprise Solutions Architecture
+- Forward Deployed Engineering
+- Intelligent Automation Platforms
+- AI-assisted developer productivity
+- Enterprise AI integration
+
+---
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/shankar-subramanian-772a72aa/)
+
+📍 Austin, Texas
