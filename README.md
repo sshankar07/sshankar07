@@ -61,7 +61,7 @@ Exploring agent-driven Playwright automation patterns for enterprise testing wor
 
 ## 🏆 Certifications & Learning
 
-### GitHub Certified: Agentic AI Developer — GH-600
+### [GitHub Certified: Agentic AI Developer — GH-600](https://learn.microsoft.com/api/credentials/share/en-us/ShankarSubramanian-9896/697AC3FCE40EB4F1?sharingId)
 **Developing in Agentic AI Systems**
 
 Validated knowledge across:
